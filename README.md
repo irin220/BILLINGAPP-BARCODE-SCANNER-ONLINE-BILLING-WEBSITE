@@ -25,20 +25,6 @@ your smartphone's built-in barcode scanner, making the billing process swift and
 - **app.js:** The JavaScript file for handling client-side interactions.
 - **server.php:** The PHP file responsible for server-side logic and processing.
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/BillingApp.git
-   ```
-
-2. Open the project in your preferred code editor.
-
-3. Configure your server environment to run PHP scripts.
-
-4. Launch the application in a web browser.
-
 ## Usage
 
 - Open the application in a web browser.
@@ -62,7 +48,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Thanks to [Bootstrap](https://getbootstrap.com/) for providing a responsive front-end framework.
 - (Additional acknowledgments if applicable)
-
----
-
-**Note:** Make sure to replace placeholders such as `<BILLINGAPP-BARCODE-SCANNER-ONLINE-BILLING-WEBSITE>`, `<your-username>`, and specific version numbers in the README with actual project names, usernames, and version information.
